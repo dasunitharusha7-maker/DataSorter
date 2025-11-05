@@ -13,12 +13,4 @@ A Java console-based application to compare Bubble Sort, Merge Sort, and Quick S
 
 ---
 
-## 🧾 Submission Details
-- Deliverable: GitHub Repository Link + One Merged Demo Video  
-- Deadline: **November 7th**  
-- Collaboration must be visible through branches, commits, and pull requests.
 
----
-
-### 💻 Developed for: CIT300 – Practical Assignment 2 (Week 12)
-**Topic:** Arrays, Sorting Algorithms, Algorithmic Complexity
